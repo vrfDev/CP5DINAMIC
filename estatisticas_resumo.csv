@@ -1,0 +1,17 @@
+﻿metrica,limite_1,limite_2,diferenca_L2_menos_L1
+termos_no_catalogo,133,133,0
+palavras_distintas_pendentes_dp,358,358,0
+termos_analisados,4199,4199,0
+ocorrencias_pendentes_dp,1307,1307,0
+ocorrencias_curtas_sem_dp,1572,1572,0
+EXATO,1320,1320,0
+CORRIGIDO,318,389,71
+AMBIGUO,0,2,2
+MANTIDO,2561,2488,-73
+MANTIDO_apos_dp,989,916,-73
+percentual_pendentes_dp,31.13,31.13,0.0
+percentual_correcoes_automaticas,7.57,9.26,1.69
+percentual_corrigido_sobre_pendentes_dp,24.33,29.76,5.43
+percentual_ambiguo_sobre_pendentes_dp,0.0,0.15,0.15
+percentual_mantido_sobre_pendentes_dp,75.67,70.08,-5.59
+registros_alterados,248,283,35
